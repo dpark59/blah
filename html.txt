@@ -1,0 +1,52 @@
+/c/users/andrew/desktop/backup/git/blah/css/place.html
+/c/users/andrew/desktop/backup/git/blah/img/place.html
+/c/users/andrew/desktop/backup/git/blah/index1.html
+/c/users/andrew/desktop/backup/git/blah/js/place.html
+/c/users/andrew/desktop/DONE/FINISHED WEB DEV LAB WORK FOR WEEK 8/assignment.html
+/c/users/andrew/desktop/DONE/FINISHED WEB DEV LAB WORK FOR WEEK 8/practice.html
+/c/users/andrew/desktop/DONE/FINISHED WEB DEV LAB WORK FOR WEEK 8/practice2.html
+/c/users/andrew/desktop/DONE/FINISHED WEB DEV LAB WORK FOR WEEK 8/Web dev Week 8/class8.html
+/c/users/andrew/desktop/DONE/FINISHED WEB DEV LAB WORK FOR WEEK 8/Web dev Week 8/example2.html
+/c/users/andrew/desktop/DONE/Lab 4 web dev/coffee.html
+/c/users/andrew/desktop/DONE/Lab 4 web dev/lab4.html
+/c/users/andrew/desktop/DONE/Lab 4 web dev/text.html
+/c/users/andrew/desktop/DONE/web dev week 6 lab/lab6.html
+/c/users/andrew/desktop/DONE/week_05/borders.html
+/c/users/andrew/desktop/DONE/week_05/columns.html
+/c/users/andrew/desktop/DONE/week_05/text-decorations.html
+/c/users/andrew/desktop/DONE/week_05/text-wrap.html
+/c/users/andrew/desktop/DONE/week_05/typography-settings.html
+/c/users/andrew/desktop/DONE/week_05/web-fonts.html
+/c/users/andrew/desktop/git/blah/css/place.html
+/c/users/andrew/desktop/git/blah/img/place.html
+/c/users/andrew/desktop/git/blah/index1.html
+/c/users/andrew/desktop/git/blah/js/place.html
+/c/users/andrew/desktop/LAB 8/test.html
+/c/users/andrew/desktop/New folder/test.html
+/c/users/andrew/desktop/system admin in class assignment/backup/index.html
+/c/users/andrew/desktop/system admin in class assignment/mytext.html
+/c/users/andrew/desktop/week_07/centering/centering-things.html
+/c/users/andrew/desktop/week_07/image-alignment.html
+/c/users/andrew/desktop/week_07/liquid/basic-float-layout.html
+/c/users/andrew/desktop/week_07/liquid/final_right.html
+/c/users/andrew/desktop/week_07/liquid/float-and-clear-example.html
+/c/users/andrew/desktop/week_07/liquid/image-gallery.html
+/c/users/andrew/desktop/week_07/liquid/navbar-centered.html
+/c/users/andrew/desktop/week_08/audio-picture.html
+/c/users/andrew/desktop/week_08/banner-and-image-gallery.html
+/c/users/andrew/desktop/week_08/calc-function.html
+/c/users/andrew/desktop/week_08/Centering stuff.html
+/c/users/andrew/desktop/week_08/drop-down-css-menu.html
+/c/users/andrew/desktop/week_08/image-alignment.html
+/c/users/andrew/desktop/week_08/image-gallery.html
+/c/users/andrew/desktop/week_08/nav bar center.html
+/c/users/andrew/desktop/week_08/video.html
+/c/users/andrew/desktop/week_08/week_08/audio-picture.html
+/c/users/andrew/desktop/week_08/week_08/banner-and-image-gallery.html
+/c/users/andrew/desktop/week_08/week_08/calc-function.html
+/c/users/andrew/desktop/week_08/week_08/Centering stuff.html
+/c/users/andrew/desktop/week_08/week_08/drop-down-css-menu.html
+/c/users/andrew/desktop/week_08/week_08/image-alignment.html
+/c/users/andrew/desktop/week_08/week_08/image-gallery.html
+/c/users/andrew/desktop/week_08/week_08/nav bar center.html
+/c/users/andrew/desktop/week_08/week_08/video.html
